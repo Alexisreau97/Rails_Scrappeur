@@ -1,24 +1,23 @@
-# README
+# Rails Scrappeur
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# INTRODUCTION
 
-Things you may want to cover:
+###### Lien du site
 
-* Ruby version
+https://crypto-scrappeur-9000.herokuapp.com/
+(c'est un peu long à charger mais c'est normal)
 
-* System dependencies
+###### Étapes à suivre
 
-* Configuration
+* Faite un git clone: https://github.com/Alexisreau97/rails-scrappeur
+* `bundle install`
+* `rails db:create`
+* `rails db:migrate`
+* Et faites vos tests !
 
-* Database creation
+# TEAM
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+| Nom      | Prenom        |
+| -------- |:-------------:|
+| REAU     | Alexis        |
+| PINTO    | Florian       |
