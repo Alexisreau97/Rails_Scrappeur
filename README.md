@@ -21,3 +21,4 @@ https://crypto-scrappeur-9000.herokuapp.com/
 | -------- |:-------------:|
 | REAU     | Alexis        |
 | PINTO    | Florian       |
+| AVRONSART    | Cyril       |
