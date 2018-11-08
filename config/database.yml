@@ -23,13 +23,13 @@ default: &default
 
 development:
   <<: *default
-  database: rails-scrappeur_development
+  database: rails-service_development
 
   # The specified database role being used to connect to postgres.
   # To create additional roles in postgres see `$ createuser --help`.
   # When left blank, postgres will use the default role. This is
   # the same name as the operating system user that initialized the database.
-  #username: rails-scrappeur
+  #username: rails-service
 
   # The password associated with the postgres role (username).
   #password:
@@ -57,7 +57,7 @@ development:
 # Do not set this db to the same as development or production.
 test:
   <<: *default
-  database: rails-scrappeur_test
+  database: rails-service_test
 
 # As with config/secrets.yml, you never want to store sensitive information,
 # like your database password, in your source code. If your source code is
@@ -80,6 +80,6 @@ test:
 #
 production:
   <<: *default
-  database: rails-scrappeur_production
-  username: rails-scrappeur
-  password: <%= ENV['RAILS-SCRAPPEUR_DATABASE_PASSWORD'] %>
+  database: rails-service_production
+  username: rails-service
+  password: <%= ENV['RAILS-SERVICE_DATABASE_PASSWORD'] %>
