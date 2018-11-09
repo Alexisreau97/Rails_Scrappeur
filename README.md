@@ -1,8 +1,6 @@
 # Rails Scrappeur
 
-<center>
 ![Bitcoin](http://image.noelshack.com/fichiers/2018/45/5/1541771209-bitcoin.png)
-</center>
 
 # INTRODUCTION
 
