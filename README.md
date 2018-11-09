@@ -1,6 +1,6 @@
 # Rails Scrappeur
 
-<h1 style="font-size:100px;">💰</h1>
+<p style="color:#f7931a;>SALUT</p>
 
 # INTRODUCTION
 
