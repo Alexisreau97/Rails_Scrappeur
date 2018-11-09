@@ -1,5 +1,7 @@
 # Rails Scrappeur
 
+<h1 style="font-size:100px;">💰</h1>
+
 # INTRODUCTION
 
 ###### Lien du site
