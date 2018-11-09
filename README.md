@@ -1,7 +1,5 @@
 # Rails Scrappeur
 
-<p style="color:#f7931a;>SALUT</p>
-
 # INTRODUCTION
 
 ###### Lien du site
